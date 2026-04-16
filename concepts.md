@@ -1,4 +1,4 @@
-Keys do cryptography.\n
-Certificates establish trust.\n
-Keystores store secrets.\n
+Keys do cryptography.
+Certificates establish trust.
+Keystores store secrets.
 Truststores store trust.
